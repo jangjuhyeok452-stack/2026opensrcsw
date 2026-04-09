@@ -1,0 +1,15 @@
+#자기소개  
+**컴퓨터공학과**2학년입니다.  
+##기술스택  
+-Python  
+-JavaScript  
+-Git&GitHub 
+ ##코드샘플  
+```python  
+print("Hello,OpenSource!") 
+ ```  
+##수업목록 
+ |항목|내용| 
+ |------|------| 
+ |1학년|A과목| 
+ |2학년|B과목|
